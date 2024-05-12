@@ -12,13 +12,14 @@
   text-decoration: none;
 }
 
-.mainH1,
-.kittensH1,
-.puppiesH1 {
+.mainDiv,
+.kittensDiv,
+.puppiesDiv {
   text-align: center;
 }
-.mainImg {
+.pageImage {
   max-width: fit-content;
   margin-left: auto;
   margin-right: auto;
+  border: 10px solid rgb(140, 163, 216);
 }

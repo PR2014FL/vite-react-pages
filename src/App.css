@@ -1,0 +1,24 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(92, 103, 201);
+  color: white;
+  padding: 15px;
+  font-size: 2em;
+}
+
+.nav a {
+  color: white;
+  text-decoration: none;
+}
+
+.mainH1,
+.kittensH1,
+.puppiesH1 {
+  text-align: center;
+}
+.mainImg {
+  max-width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}

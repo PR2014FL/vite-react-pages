@@ -44,3 +44,11 @@ video {
   border-radius: 15px;
   filter: drop-shadow(0 1rem 1rem rgba(0, 0, 0, 0.75));
 }
+
+.video{
+margin-left: auto;
+margin-right: auto;
+/* border: 10px solid rgb(140, 163, 216); */
+display: flex;
+justify-content: center;
+}
